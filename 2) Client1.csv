@@ -1,0 +1,8 @@
+ID,prenom,nom,ville,nombre_commandes,adresse_livraison,adresse_facturation,depenses_totales,date_inscription
+1,pierre,Leroy,Paris,5,"32 rue de Grégoire Paul","32 rue de Grégoire Paul",1250.78,2020-09-16
+2,sabrina,Durand,Nantes,14,"22 Avenue Daniel Valentin",NULL,2031.18,2021-08-25
+3,julien,Martin,Lyon,1,"68 Boulevard Pépin",NULL,51.87,2016-02-14
+4,david,Bernad,Marseille,10,NULL,NULL,5.28,2018-01-19
+5,marie,Leroy,Grenoble,16,"10 Rue Saint Lazare ","42 Route des Dames",658.93,2012-09-18
+6,Maude,Bijou,Paris,25,NULL,NULL,412.12,2014-07-15
+7,Aurore,Bismuth,Paris,2,"10 Rue Saint Mars",NULL,12.45,2022-12-13
